@@ -1,0 +1,3 @@
+mkdir vendor
+bundle install --path vendor/bundle
+bundle exec rackup config.ru
